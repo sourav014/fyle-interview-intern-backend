@@ -1,3 +1,5 @@
+[html]
+show_contexts = True
 [run]
 omit =
     *env/*
